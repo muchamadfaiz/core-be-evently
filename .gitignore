@@ -1,0 +1,5 @@
+node_modules
+reset.sh
+install.sh
+.env
+setup-notes.md
